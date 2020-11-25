@@ -1,0 +1,51 @@
+body{
+    font-family: 'Nerko One', cursive;
+    background-image: url(images/fon.jpeg);
+    background-repeat: no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+h1{
+    color: #000;
+    font-size: 16px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#clock{
+    color: #fff;
+    font-weight: bold;
+    font-size: 26px;
+    text-align: center;
+}
+
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    letter-spacing: 1px;
+    
+    font-size: 14px;
+    transition: .3s ease-in-out;
+}
+
+
+.link{
+    color: #f0c24d;
+    border: 2px solid transparent;
+}
+
+.link:hover{
+    border: 2px solid #f0c24d;
+    background-color: #f0c24d;
+    color: #fff;
+}
+
+.link1{
+    margin-top: 38%;
+    margin-left: 63%;
+}
